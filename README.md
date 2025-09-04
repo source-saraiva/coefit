@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/source-saraiva/easyinstall/blob/main/README.md)
+[![pt-AO](https://img.shields.io/badge/lang-pt--ao-green.svg)](https://github.com/source-saraiva/easyinstall/blob/main/README.pt-AO.md)
+
 # COEFIT
 **Cost-Effective IT**
 
@@ -14,10 +17,10 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 ---
 
 
-| Server Needs       | Recommendation                                                                                                                                      | Deployable using ezy-install |
+| Service Category   | Recommendation                                                                                                                                      | Deployable using ezy-install |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Virtualization     | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                              | No                           |
-| Firewall           |[Opnsense](https://opnsense.org/)                                                                                                                    | No                           |
+| Firewall/ VPN/ IDS/ IPS/  |[Opnsense](https://opnsense.org/)                                                                                                             | No                           |
 | VPN                | [Opnsense (openvpn)](https://opnsense.org/)                                                                                                         | No                           |
 | Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No                           |
 | Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No                           |
@@ -25,12 +28,12 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Service Desk/ Inventory  | [GLPI](https://glpi-project.org/)                                                                                                             | Yes                          |
 | Monitoring         | [Zabbix](https://www.zabbix.com/)                                                                                                                   | Yes                          |
 | Patch Management   | [Rudder](https://www.rudder.io/)                                                                                                                    | Yes                          |
-| 
+| Database Server    | [MariaDB](https://mariadb.org/)                                                                                                                     | Yes                          |
+| Database Server    | [PostgreSQL](https://www.postgresql.org/)                                                                                                           | Yes                          |
+| Password Management| [Passbolt](https://www.passbolt.com/)                                                                                                               | Not yet                      |
+| Log Management     | [Graylog](https://www.graylog.org/)                                                                                                                 | Not yet                      |
+| Asset Discovery    | [NetBox](https://netbox.dev/)                                                                                                                       | Not yet                      |
+| Backup             | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                         | No                           |
+| Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | Not yet                      |
 
-
-
-| Clients Needs        | Recommendation                                                                                                                                          |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office Suite         | [Libre Office](https://www.libreoffice.org/)                                                                                                            |
-
-> *Can be installed using [ezy-install](https://github.com/source-saraiva/ezy-install/) a one-command installation tool
+MAIL + WEB servers are Hosted
