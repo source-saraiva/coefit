@@ -21,7 +21,7 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | VPN                | [Opnsense (openvpn)](https://opnsense.org/)                                                                                                         | No                           |
 | Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No                           |
 | Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No                           |
-| File Sharing/ Meetings / Chat /Mails     | [Nextcloud Files](https://nextcloud.com/files/)                                                                               | Yes                          |
+| Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                          | Yes                          |
 | Service Desk/ Inventory  | [GLPI](https://glpi-project.org/)                                                                                                             | Yes                          |
 | Monitoring         | [Zabbix](https://www.zabbix.com/)                                                                                                                   | Yes                          |
 | Patch Management   | [Rudder](https://www.rudder.io/)                                                                                                                    | Yes                          |
