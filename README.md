@@ -21,11 +21,12 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Service Category   | Recommendation                                                                                                                                      | Deployable using ezy-install |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Virtualization     | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                              | No                           |
-| Firewall / VPN / IDS / IPS |[Opnsense](https://opnsense.org/)                                                                                                             | No                           |
+| Firewall / VPN / IDS / IPS |[Opnsense](https://opnsense.org/)                                                                                                            | No                           |
 | Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No                           |
 | Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No                           |
 | Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                          | Yes                          |
-| Service Desk / Inventory  | [GLPI](https://glpi-project.org/)                                                                                                             | Yes                          |
+| Service Desk / Inventory  | [GLPI](https://glpi-project.org/)                                                                                                            | Yes                          |
+| Telephony          | [Issabel](https://www.issabel.org/)                                                                                                                 | Not yet                      |
 | Monitoring         | [Zabbix](https://www.zabbix.com/)                                                                                                                   | Yes                          |
 | Patch Management   | [Rudder](https://www.rudder.io/)                                                                                                                    | Yes                          |
 | Database Server    | [MariaDB](https://mariadb.org/)                                                                                                                     | Yes                          |
@@ -33,7 +34,7 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Password Management| [Passbolt](https://www.passbolt.com/)                                                                                                               | Not yet                      |
 | Log Management     | [Graylog](https://www.graylog.org/)                                                                                                                 | Not yet                      |
 | Asset Discovery    | [NetBox](https://netbox.dev/)                                                                                                                       | Not yet                      |
-| SIEM               | [Wazuh](https://wazuh.com/))                                                                                                                        | Not yet                      |
+| SIEM               | [Wazuh](https://wazuh.com/)                                                                                                                         | Not yet                      |
 | Backup             | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                         | No                           |
 | Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | No                           |
 
