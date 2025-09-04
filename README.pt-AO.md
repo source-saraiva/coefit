@@ -35,3 +35,5 @@ O objectivo do COEFIT é fornecer a administradores de sistemas, gestores de TI 
 | Produtividade de Escritório   | [LibreOffice](https://www.libreoffice.org/)                                                                                                  | Ainda não                    |
 
 Servidores de MAIL + WEB são alojados.
+
+ERP use SaaS
