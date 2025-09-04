@@ -40,4 +40,4 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 
 MAIL + WEB servers are Hosted
 
-ERP use SaaS
+ERP is used in SaaS mode
