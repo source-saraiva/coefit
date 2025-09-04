@@ -2,9 +2,8 @@
 [![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/source-saraiva/coefit/blob/main/README.pt.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/source-saraiva/coefit/blob/main/README.fr.md)
 
-
 # COEFIT
-**Informatique à Coût Efficace**
+**Informatique Custo-Efficace**
 
 COEFIT est un cadre (framework) pour la conception et le déploiement d’environnements informatiques qui soient :
 
@@ -18,23 +17,25 @@ L’objectif de COEFIT est de fournir aux administrateurs systèmes, responsable
 
 ---
 
-| Catégorie de Service         | Recommandation                                                                                                                                | Installable avec ezy-install |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Virtualisation                | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                        | Non                          |
-| Pare-feu / VPN / IDS / IPS    | [Opnsense](https://opnsense.org/)                                                                                                             | Non                          |
-| Annuaire                      | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)  | Non                          |
-| Système d’Exploitation Serveur| [Rocky Linux](https://rockylinux.org/)                                                                                                        | Non                          |
-| Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                               | Oui                          |
-| Service Desk / Inventaire     | [GLPI](https://glpi-project.org/)                                                                                                             | Oui                          |
-| Supervision                   | [Zabbix](https://www.zabbix.com/)                                                                                                             | Oui                          |
-| Gestion des Correctifs        | [Rudder](https://www.rudder.io/)                                                                                                              | Oui                          |
-| Serveur de Base de Données    | [MariaDB](https://mariadb.org/)                                                                                                               | Oui                          |
-| Serveur de Base de Données    | [PostgreSQL](https://www.postgresql.org/)                                                                                                     | Oui                          |
-| Gestion des Mots de Passe     | [Passbolt](https://www.passbolt.com/)                                                                                                         | Pas encore                   |
-| Gestion des Journaux          | [Graylog](https://www.graylog.org/)                                                                                                           | Pas encore                   |
-| Découverte des Actifs         | [NetBox](https://netbox.dev/)                                                                                                                 | Pas encore                   |
-| Sauvegardes                   | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                   | Non                          |
-| Productivité Bureautique      | [LibreOffice](https://www.libreoffice.org/)                                                                                                   | Pas encore                   |
+| Catégorie de Service          | Recommandation                                                                                                                              | Installable avec ezy-install |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Virtualisation                | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                      | Non                          |
+| Pare-feu / VPN / IDS / IPS    | [Opnsense](https://opnsense.org/)                                                                                                           | Non                          |
+| Annuaire                      | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3) | Non                          |
+| Système d’Exploitation Serveur| [Rocky Linux](https://rockylinux.org/)                                                                                                      | Non                          |
+| Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                             | Oui                          |
+| Service Desk / Inventaire     | [GLPI](https://glpi-project.org/)                                                                                                           | Oui                          |
+| Téléphonie                    | [Issabel](https://www.issabel.org/)                                                                                                         | Pas encore                   |
+| Supervision                   | [Zabbix](https://www.zabbix.com/)                                                                                                           | Oui                          |
+| Gestion des Correctifs        | [Rudder](https://www.rudder.io/)                                                                                                            | Oui                          |
+| Serveur de Base de Données    | [MariaDB](https://mariadb.org/)                                                                                                             | Oui                          |
+| Serveur de Base de Données    | [PostgreSQL](https://www.postgresql.org/)                                                                                                   | Oui                          |
+| Gestion des Mots de Passe     | [Passbolt](https://www.passbolt.com/)                                                                                                       | Pas encore                   |
+| Gestion des Journaux          | [Graylog](https://www.graylog.org/)                                                                                                         | Pas encore                   |
+| Découverte des Actifs         | [NetBox](https://netbox.dev/)                                                                                                               | Pas encore                   |
+| SIEM                          | [Wazuh](https://wazuh.com/)                                                                                                                 | Pas encore                   |
+| Sauvegardes                   | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                 | Non                          |
+| Productivité Bureautique      | [LibreOffice](https://www.libreoffice.org/)                                                                                                 | Non                          |
 
 Les serveurs de MAIL + WEB sont hébergés.  
 
