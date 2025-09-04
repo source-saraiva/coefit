@@ -1,5 +1,5 @@
 # COEFIT
-**Cost-Effective IT Infrastructure**
+**Cost-Effective IT**
 
 COEFIT is a framework for designing and deploying IT environments that are:
 
