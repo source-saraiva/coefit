@@ -30,4 +30,4 @@ A 'Cost-Effective IT' Infrastructure
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Office Suite         | [Libre Office](https://www.libreoffice.org/)                                                                                                            |
 
-> * Can be installed using [ezy-install](https://github.com/source-saraiva/ezy-install/) a one-command installation tool
+> *Can be installed using [ezy-install](https://github.com/source-saraiva/ezy-install/) a one-command installation tool
