@@ -33,6 +33,7 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Password Management| [Passbolt](https://www.passbolt.com/)                                                                                                               | Not yet                      |
 | Log Management     | [Graylog](https://www.graylog.org/)                                                                                                                 | Not yet                      |
 | Asset Discovery    | [NetBox](https://netbox.dev/)                                                                                                                       | Not yet                      |
+| SIEM               | [Wazuh]([https://netbox.dev/](https://wazuh.com/))                                                                                                  | Not yet                      |
 | Backup             | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                         | No                           |
 | Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | No                           |
 
