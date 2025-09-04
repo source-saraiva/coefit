@@ -21,7 +21,6 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Virtualization     | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                              | No                           |
 | Firewall/ VPN/ IDS/ IPS/  |[Opnsense](https://opnsense.org/)                                                                                                             | No                           |
-| VPN                | [Opnsense (openvpn)](https://opnsense.org/)                                                                                                         | No                           |
 | Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No                           |
 | Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No                           |
 | Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                          | Yes                          |
