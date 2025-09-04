@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-orange.svg)](https://github.com/source-saraiva/coefit/blob/main/README.md)
-[![pt-AO](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/source-saraiva/coefit/blob/main/README.pt-AO.md)
+[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/source-saraiva/coefit/blob/main/README.pt.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/source-saraiva/coefit/blob/main/README.fr.md)
 
 
