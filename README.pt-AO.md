@@ -2,7 +2,7 @@
 [![pt-AO](https://img.shields.io/badge/lang-pt--ao-green.svg)](https://github.com/source-saraiva/coefit/blob/main/README.pt-AO.md)
 
 # COEFIT
-**Informática Custo-Eficiente**
+**Informática a Custo-Eficiente**
 
 COEFIT é uma estrutura (framework) para concepção e implementação de ambientes de TI que sejam:
 
