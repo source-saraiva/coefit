@@ -36,3 +36,4 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | No                           |
 
 MAIL + WEB servers are Hosted
+ERP use SaaS
