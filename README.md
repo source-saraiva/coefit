@@ -33,6 +33,6 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 | Log Management     | [Graylog](https://www.graylog.org/)                                                                                                                 | Not yet                      |
 | Asset Discovery    | [NetBox](https://netbox.dev/)                                                                                                                       | Not yet                      |
 | Backup             | [Proxmox Backup Server](https://www.proxmox.com/en/products/proxmox-backup-server/overview)                                                         | No                           |
-| Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | Not yet                      |
+| Office Productivity| [Libre Office](https://www.libreoffice.org/)                                                                                                        | No                           |
 
 MAIL + WEB servers are Hosted
