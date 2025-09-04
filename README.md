@@ -22,6 +22,10 @@ A 'Cost-Effective IT' Infrastructure
 | Patch Mgmt*          | [Rudder](https://www.rudder.io/)                                                                                                                        |
 
 
+
+
+
+
 | Clients Needs        | Recommendation                                                                                                                                          |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Office Suite         | [Libre Office](https://www.libreoffice.org/)                                                                                                            |
