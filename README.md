@@ -22,8 +22,8 @@ The goal of COEFIT is to give system administrators, IT managers, and small-to-m
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Virtualization     | [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)                                                              | No (ISO)                          |
 | Firewall / VPN / IDS / IPS |[Opnsense](https://opnsense.org/)                                                                                                            | No (ISO)                          |
-| Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No                           |
-| Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No                           |
+| Directory          | [Windows Active Directory](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025?msockid=31e7aedfce22635a0767bb69cff662f3)        | No (ISO)                           |
+| Server OS          | [Rocky Linux](https://rockylinux.org/)                                                                                                              | No (ISO)                           |
 | Collaboration & Communication | [Nextcloud Files](https://nextcloud.com/files/)                                                                                          | Yes                          |
 | Service Desk / Inventory  | [GLPI](https://glpi-project.org/)                                                                                                            | Yes                          |
 | Telephony          | [Issabel](https://www.issabel.org/)                                                                                                                 | No (ISO)                      |
